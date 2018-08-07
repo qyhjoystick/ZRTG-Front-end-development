@@ -56,7 +56,7 @@
                             },
                             {
                                 index: 'editor',
-                                title: '富文本编辑器'
+                                title: '巡检'
                             },
                             {
                                 index: 'markdown',

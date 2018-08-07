@@ -38,7 +38,7 @@ export default new Router({
                     // 富文本编辑器组件
                     path: '/editor',
                     component: resolve => require(['../components/page/VueEditor.vue'], resolve),
-                    meta: { title: '富文本编辑器' }
+                    meta: { title: '巡检' }
                 },
                 {
                     // markdown组件
